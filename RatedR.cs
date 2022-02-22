@@ -1,5 +1,7 @@
 using System;
 
+/*
+    
 class RatedR
 {
   static void Main()
@@ -18,3 +20,5 @@ class RatedR
     }
   }
 }
+
+*/
